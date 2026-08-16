@@ -110,3 +110,17 @@ ESC键：开始 / 停止点击（切换功能，与主界面按钮同步）。
 操作说明：点击“📖 操作说明”弹出完整使用指南，便于新手快速上手。
 
 定时停止：输入分钟数，点击“定时”开始倒计时，时间到自动停止点击（若未开始则先自动开始）。
+
+
+------------------------------------------------------------------------------------
+Basic runtime dependencies  基础运行依赖
+
+pip install pyautogui keyboard
+
+It is recommended to run Python / EXE as administrator, otherwise the global hotkeys may not work in the background. 建议以管理员身份运行 Python / EXE，否则全局热键可能无法在后台生效。
+
+
+
+
+
+
